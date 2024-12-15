@@ -1,0 +1,4 @@
+Other/*
+SystemStateWebhook/bin/*
+SystemStateWebhook/obj/*
+*.suo
