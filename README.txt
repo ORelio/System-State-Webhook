@@ -1,4 +1,4 @@
-System State Webhook v1.0.0 - By ORelio - Microzoom.fr
+System State Webhook v1.0.1 - By ORelio - Microzoom.fr
 https://github.com/ORelio/System-State-Webhook/
 
 Thanks for downloading System State Webhook!
@@ -25,6 +25,12 @@ Setup
 4. Create a shortcut to SystemStateWebhookHidden.exe inside this folder to have it run on startup/logon:
    %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
 
+Changelog
+---------
+
+v1.0.0: Initial release supporting Startup/Logon/Logoff/Shutdown
+v1.0.1: Improve system event window hiding mechanism
+
 Credits
 -------
 
@@ -34,6 +40,6 @@ System State Webhook has been created using the following resources:
  - Webhook icon, by Austin Andrews, with slight color changes (Icon)
  - Handel Gothic font, by Donald J. Handel & Robert Trogman (Logo)
 
--------------
-© 2024 ORelio
--------------
+------------------
+© 2024-2025 ORelio
+------------------
