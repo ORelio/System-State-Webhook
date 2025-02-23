@@ -11,11 +11,11 @@ namespace SystemStateWebhook
     /// <summary>
     /// System State Webhook
     /// Monitor startup, session leave, session resume and shutdown events, and pass them to a webhook.
-    /// By ORelio (c) 2024 - CDDL 1.0
+    /// By ORelio (c) 2024-2025 - CDDL 1.0
     /// </summary>
     static class Program
     {
-        const string Version = "1.0.0";
+        const string Version = "1.0.1";
 
         /// <summary>
         /// Output log to console with timestamp

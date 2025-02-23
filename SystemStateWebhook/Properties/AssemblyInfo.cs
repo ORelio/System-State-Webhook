@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("System State Webhook")]
-[assembly: AssemblyCopyright("Copyright © ORelio 2024")]
+[assembly: AssemblyCopyright("Copyright © ORelio 2024-2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
